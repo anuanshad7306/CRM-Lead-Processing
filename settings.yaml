@@ -1,0 +1,9 @@
+email:
+  imap_server: "imap.example.com"
+  username: "muhammadanshad32575@gmail.com"
+  password: "mouhjhdifouberwx"
+crm:
+  db_path: "db/crm.db"
+dashboard:
+  host: "127.0.0.1"
+  port: 5000
