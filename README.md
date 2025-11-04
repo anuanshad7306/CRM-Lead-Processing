@@ -1,5 +1,4 @@
 # CRM-Lead-Processing
-# CRM Lead Processing
 
 **AI-Powered Email Lead Analyzer** that automatically fetches, classifies, and tracks Gmail emails into **Lead, Support, Spam, Follow-up** categories. Built with **Flask**, **SocketIO**, and **Hugging Face AI** for real-time updates and beautiful dashboard.
 
